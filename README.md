@@ -1,5 +1,3 @@
-¡Me encanta! Vamos a dejar la bitácora **impecable, profesional y lista para GitHub**. Aquí tienes el **README.md** completo, con **markdown limpio, tablas, emojis técnicos y estructura de paper**.
-
 ---
 
 # 📓 Diario de Procesamiento - Proyecto CINDER  
