@@ -1,5 +1,3 @@
----
-
 # 📓 Diario de Procesamiento - Proyecto CINDER  
 **Análisis retrospectivo de intoxicaciones agudas en un hospital de tercer nivel**  
 *De 36,581 PDFs a fenotipos clínicos: un pipeline de minería de datos toxicológicos*
