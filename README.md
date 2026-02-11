@@ -30,8 +30,11 @@ Se seleccionaron automáticamente casos que contengan las siguientes palabras cl
 | Drogas | Fármacos ETANOL, COCAINA, MARIHUANA, OPIOIDES, BENZODIAZEPINAS, PARACETAMOL
 | Términos clínicos | INTOXICACION, ENVENENAMIENTO, TOXINDROME, VENENO, MORDEDURA, PICADURA
 | Raíces | TOXIC, VENEN, PICAD, MORD, SOBRED, INGEST, SUICID, AUTOLIS
-Se obtuvieron 2,131 registros de casos que probablemente corresponda a un caso relativo a la toxicología.
+Se obtuvieron 2,131 registros de casos posiblemente corresponda a un caso relativo a la toxicología. (db-cinder-a.csv)
 
-7B. Container 4 de comder.ipynb
+7B. Container 4 de cinder.ipynb
 Se aplicaron filtros más estrictos y contextuales, se obtuvieron 195 casos que muy probablemente corresponden a un caso relativo a la toxicología.
 Se trabajará sobre esta base de datos, llamada db-cinder-toxi.csv
+
+8. Container 5 de cinder.ipynb
+Script de análisis estadístico sobre bases de datos
