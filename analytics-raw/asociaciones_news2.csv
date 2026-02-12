@@ -1,0 +1,13 @@
+Variable,Target,Tipo,Estadístico,p-valor,Significativo,n,Categorías,Variable 1,Variable 2,Grados libertad
+tas,news2_score,Correlación,-0.334,0.0,SÍ,188.0,,,,
+fc,news2_score,Correlación,0.301,0.0,SÍ,188.0,,,,
+sao2,news2_score,Correlación,-0.423,0.0,SÍ,188.0,,,,
+tad,news2_score,Correlación,-0.211,0.0037,SÍ,188.0,,,,
+fr,news2_score,Correlación,0.155,0.0342,SÍ,188.0,,,,
+t,news2_score,Correlación,0.064,0.382,NO,188.0,,,,
+genero,news2_score,t-test,0.787,0.4326,NO,,2.0,,,
+,,Chi-cuadrado,1.641,0.4402,NO,,,genero,nivel_atencion,2.0
+años_cumplidos,news2_score,Correlación,-0.051,0.4903,NO,188.0,,,,
+dia_semana,news2_score,ANOVA,0.868,0.5196,NO,,7.0,,,
+grupo_edad,news2_score,ANOVA,0.379,0.8233,NO,,5.0,,,
+gluc,news2_score,Correlación,0.019,0.9289,NO,25.0,,,,
