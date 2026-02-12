@@ -108,7 +108,7 @@ cinder/
 │   ├── ptt.py
 │   └── unitxt.py
 │
-├── 📁 db/                                  # Bases de datos en formato CSV
+├── 📁 db/                                 # Bases de datos en formato CSV
 │   ├── db-cinder-toxi.csv                 # Base raw (195 casos, filtro estricto)
 │   └── db-cinder-toxi-mod.csv             # Base enriquecida (34 columnas + clusters)
 │
