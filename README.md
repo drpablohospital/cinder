@@ -94,26 +94,36 @@ Construir una base de datos estructurada, limpia y enriquecida a partir de **hoj
 ## 📁 **5. Estructura final de archivos**
 
 ```
-📂 proyecto-cinder/
+cinder/
 │
 ├── 📜 README.md
-├── 📜 dupdel.py
-├── 📜 unify2.py
-├── 📜 ptt.py
-├── 📜 unitxt.py
+├── 📄 caracterizacion_fenotipica.docx      # Análisis general de resultados (documento)
+├── 📈 cinder-toxi-graph.html               # Gráficas HTML del análisis general (raw)
+├── 📈 dashboard_toxicologico_avanzado.html # Reporte HTML del análisis general (mod)
+├── 📄 notebook.txt                         # Propuestas de actividades para continuar desarrollo del proyecto
 │
-├── 📓 cinder_containers_1y2.ipynb   # Extracción inicial → db-cinder.csv
-├── 📓 cinder_container_3.ipynb      # Filtro amplio → db-cinder-a.csv
-├── 📓 cinder_container_4.ipynb      # Filtro estricto → db-cinder-toxi.csv
-├── 📓 cinder_container_5.ipynb      # Enriquecimiento + clustering → db-cinder-toxi-enriquecida.csv
-├── 📓 cinder_dashboard_avanzado.ipynb  # Dashboard HTML
+├── 📁 scripts/                             # Scripts de procesamiento
+│   ├── dupdel.py
+│   ├── unify2.py
+│   ├── ptt.py
+│   └── unitxt.py
 │
-├── 📊 db-cinder.csv
-├── 📊 db-cinder-a.csv
-├── 📊 db-cinder-toxi.csv
-├── 📊 db-cinder-toxi-enriquecida.csv
+├── 📁 db/                                  # Bases de datos en formato CSV
+│   ├── db-cinder-toxi.csv                 # Base raw (195 casos, filtro estricto)
+│   └── db-cinder-toxi-mod.csv             # Base enriquecida (34 columnas + clusters)
 │
-└── 📈 dashboard_toxicologico_avanzado_20260211_XXXXXX.html
+├── 📁 analytics-raw/                      # Resultados analíticos sobre base raw
+│   ├── importancia_variables_raw.csv
+│   ├── correlacion_spearman_raw.csv
+│   ├── arbol_decision_raw.png
+│   └── ...
+│
+└── 📁 analytics-mod/                      # Resultados analíticos sobre base mod (enriquecida)
+    ├── importancia_variables_mod.csv
+    ├── perfiles_clusters.csv
+    ├── pca_clusters.png
+    ├── regla_gravedad.csv
+    └── ...
 ```
 
 ---
