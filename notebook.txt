@@ -1,0 +1,10 @@
+PENDIENTES:
+- Sindy: 
+1) Validar y depurar base de datos "db-cinder-mod.csv" (clasificar diagnósticos, verificar y corregir campos de xenobiótico / intención / alcohol / coingesta)
+2) Proponer nuevos campos para la baase de datos "db-cinder-mod.csv" de relevancia para su campo de estudio (lavado gástrico, días de hospitalización, etc)
+3) Registrar el proyecto de investigación a nivel institucional / comité de bioética
+- Carlos:
+1) Redactar el artículo/s de investigación resultante de este trabajo
+2) Publicar el artículo/s de investigación
+- Pablo:
+1) Desarrollo continuo
