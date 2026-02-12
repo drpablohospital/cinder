@@ -140,7 +140,7 @@ Construir una base de datos estructurada, limpia y enriquecida a partir de **hoj
 ## 👨‍⚕️ **8. Autoría y contacto**
 
 **Proyecto CINDER** (Clinical INtelligence for Drug Emergency Response)  
-Desarrollado por: *Sindy Ortega, José Pablo Fernández Magaña*  
+Desarrollado por: *Sindy Lucero Ortega Martinez, José Pablo Fernández Magaña*  
 Contacto: *drpablo.hospital@gmail.com*  
 Institución: *[Hospital General Dr. Gea González]*  
 Fecha de cierre: **11 de febrero de 2026, 23:59 h (tiempo del oriente, reina el silencio).**
